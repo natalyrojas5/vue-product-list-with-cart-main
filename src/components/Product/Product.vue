@@ -31,9 +31,9 @@
       </div>
     </div>
     <aside class="product__description">
-      <h1 class="product__descriptionCategory">
+      <p class="product__descriptionCategory">
         {{ productCategory }}
-      </h1>
+      </p>
       <p class="product__descriptionName">
         {{ productName }}
       </p>
