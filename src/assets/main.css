@@ -1,7 +1,7 @@
 @import './base.css';
 
 body {
-  background: var(--rose-100);
+  background: var(--rose-50);
   font-family: var(--font-family);
 }
 
